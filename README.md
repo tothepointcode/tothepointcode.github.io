@@ -13,8 +13,8 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 **Tech Stack:** React Native, Expo, TypeScript, JavaScript, etc.
 
 **Key Features:**  
-✅ Displaying credit cards and their balances.</br>
-✅ Transfer of funds to contacts.</br>
+✅ Displaying credit cards and their balances.  
+✅ Transfer of funds to contacts.  
 ✅ Keeping track of transactions.
 
 ![Project Screenshot](assets/1.png)
@@ -29,10 +29,10 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 **Tech Stack:** React Native, Expo, JavaScript, Google Maps API etc.
 
 **Key Features:**  
-✅ Products listings and price adjustment.</br>
-✅ Adding to cart and order management.</br>
-✅ Mobile money payment integration on checkout.</br>
-✅ Consumed APIs to make it functional.</br>
+✅ Products listings and price adjustment.  
+✅ Adding to cart and order management.  
+✅ Mobile money payment integration on checkout.  
+✅ Consumed APIs to make it functional.  
 ✅ Published on the Apple App Store.
 ✅ Support for dark and light theme.
 
@@ -48,9 +48,9 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 **Tech Stack:** React Native, Expo, JavaScript, etc.
 
 **Key Features:**  
-✅ App onboarding to introduce app to user.</br>
-✅ Listing of products with frontend search. </br>
-✅ Adding products to cart and saving to wishlist.</br>
+✅ App onboarding to introduce app to user.  
+✅ Listing of products with frontend search.   
+✅ Adding products to cart and saving to wishlist.  
 ✅ App Icon and splashscreen added for a nice touch and branding.
 
 ![Project Screenshot](assets/3.png)
@@ -65,11 +65,11 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 **Tech Stack:** React Native, Expo, JavaScript, Google Maps API, etc.
 
 **Key Features:**  
-✅ Creating of events and uploading tickets for sale.</br>
-✅ Event locations indicated with Google Maps.</br>
-✅ QR code scanning implemented to confirm valid tickets.
-✅ Mobile money payment integrated for purchases.</br>
-✅ App published on the Apple App Store.</br>
+✅ Creating of events and uploading tickets for sale.  
+✅ Event locations indicated with Google Maps.  
+✅ QR code scanning implemented to confirm valid tickets.  
+✅ Mobile money payment integrated for purchases.  
+✅ App published on the Apple App Store.  
 
 ![Project Screenshot](assets/4.png)
 
@@ -83,9 +83,9 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 **Tech Stack:** React Native, Expo, JavaScript, Camera API, AsyncStorage, etc.
 
 **Key Features:**  
-✅ Online courses listing on homepage.</br>
-✅ Profile image upload via Camera.</br>
-✅ Profile image upload via Gallery.</br>
+✅ Online courses listing on homepage.  
+✅ Profile image upload via Camera.  
+✅ Profile image upload via Gallery.  
 ✅ Persistent storage to keep uploaded images on closing app.
 
 ![Project Screenshot](assets/5.png)
@@ -99,9 +99,9 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 **Tech Stack:** React Native, Expo, TypeScript, JavaScript, etc.
 
 **Key Features:**  
-✅ Login and Signup pages.</br>
-✅ Google and Facebook Single Sign-Ons.</br>
-✅ Conditional credentials submit button.</br>
+✅ Login and Signup pages.  
+✅ Google and Facebook Single Sign-Ons.  
+✅ Conditional credentials submit button.  
 ✅ Theme switch based on system theme.
 
 ![Project Screenshot1](assets/6a.png)  
@@ -116,10 +116,10 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 **Tech Stack:** React Native, Expo, JavaScript, DatePicker, Google Signin API, etc.
 
 **Key Features:**  
-✅ User account login and signup.</br>
-✅ Signup with Google. </br>
-✅ Persisting logged in user details on app restart. </br>
-✅ User email verification via OTP and Link. </br>
+✅ User account login and signup.  
+✅ Signup with Google.   
+✅ Persisting logged in user details on app restart.   
+✅ User email verification via OTP and Link.   
 ✅ Backend API integration for the authentication.
 
 ![Project Screenshot](assets/7a.png)  
@@ -135,8 +135,8 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 **Tech Stack:** React Native, Expo, JavaScript etc.
 
 **Key Features:**  
-✅ Product listings styled in steps.</br>
-✅ Product details page with more information. </br>
+✅ Product listings styled in steps.  
+✅ Product details page with more information.   
 
 ![Project Screenshot](assets/8.jpg)
 
@@ -149,10 +149,10 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 **Tech Stack:** React Native, Expo, JavaScript, Redux etc.
 
 **Key Features:**  
-✅ Tasks can be created, updated and removed when completed.</br>
-✅ Collections can be created to house related tasks.</br>
-✅ Progress bar to track number of transactions completed.</br>
-✅ Dark theme support.</br>
+✅ Tasks can be created, updated and removed when completed.  
+✅ Collections can be created to house related tasks.  
+✅ Progress bar to track number of transactions completed.  
+✅ Dark theme support.  
 
 ![Project Screenshot](assets/9a.jpg)  
 ![Project Screenshot](assets/9b.jpg)
@@ -166,8 +166,8 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 **Tech Stack:** React, HTML, CSS, JavaScript, etc.
 
 **Key Features:**  
-✅ Movies listed in columns and rows.</br>
-✅ Backend API integration to fetch movies.</br>
+✅ Movies listed in columns and rows.  
+✅ Backend API integration to fetch movies.  
 ✅ Details page provides more information and links to related movies.
 
 ![Project Screenshot](assets/10a.png)
@@ -187,7 +187,7 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 
 ## 📫 Contact Me
 
-📧 **Email:** terra@tothepointcode.com</br> 
+📧 **Email:** terra@tothepointcode.com   
 🔗 **LinkedIn:** [Terra Andoh Baffoe](http://www.linkedin.com/in/terraandoh)  
 📺 **YouTube:** [ToThePointCode](http://www.youtube.com/@ToThePointCode)
 
