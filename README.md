@@ -163,7 +163,7 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 
 **Description:** A movie listing website, cloned from a UI.
 
-**Tech Stack:** React, HTML, CSS, JavaScript, etc.
+**Tech Stack:** ReactJS, HTML, CSS, JavaScript, etc.
 
 **Key Features:**  
 ✅ Movies listed in columns and rows.  
