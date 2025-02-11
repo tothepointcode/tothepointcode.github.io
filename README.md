@@ -33,7 +33,7 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 ✅ Adding to cart and order management.  
 ✅ Mobile money payment integration on checkout.  
 ✅ Consumed APIs to make it functional.  
-✅ Published on the Apple App Store.
+✅ Published on the Apple App Store.  
 ✅ Support for dark and light theme.
 
 ![Project Screenshot1](assets/2a.png)  
