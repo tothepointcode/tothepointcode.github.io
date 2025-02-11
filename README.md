@@ -49,7 +49,7 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 
 **Key Features:**  
 ✅ App onboarding to introduce app to user.  
-✅ Listing of products with frontend search.   
+✅ Listing of products with frontend search.  
 ✅ Adding products to cart and saving to wishlist.  
 ✅ App Icon and splashscreen added for a nice touch and branding.
 
@@ -69,7 +69,7 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 ✅ Event locations indicated with Google Maps.  
 ✅ QR code scanning implemented to confirm valid tickets.  
 ✅ Mobile money payment integrated for purchases.  
-✅ App published on the Apple App Store.  
+✅ App published on the Apple App Store.
 
 ![Project Screenshot](assets/4.png)
 
@@ -117,9 +117,9 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 
 **Key Features:**  
 ✅ User account login and signup.  
-✅ Signup with Google.   
-✅ Persisting logged in user details on app restart.   
-✅ User email verification via OTP and Link.   
+✅ Signup with Google.  
+✅ Persisting logged in user details on app restart.  
+✅ User email verification via OTP and Link.  
 ✅ Backend API integration for the authentication.
 
 ![Project Screenshot](assets/7a.png)  
@@ -136,7 +136,7 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 
 **Key Features:**  
 ✅ Product listings styled in steps.  
-✅ Product details page with more information.   
+✅ Product details page with more information.
 
 ![Project Screenshot](assets/8.jpg)
 
@@ -152,7 +152,7 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 ✅ Tasks can be created, updated and removed when completed.  
 ✅ Collections can be created to house related tasks.  
 ✅ Progress bar to track number of transactions completed.  
-✅ Dark theme support.  
+✅ Dark theme support.
 
 ![Project Screenshot](assets/9a.jpg)  
 ![Project Screenshot](assets/9b.jpg)
@@ -187,7 +187,7 @@ Welcome to my portfolio! Here are some of the projects I've worked on.
 
 ## 📫 Contact Me
 
-📧 **Email:** terra@tothepointcode.com   
+📧 **Email:** [terra@tothepointcode.com](mailto:terra@tothepointcode.com)  
 🔗 **LinkedIn:** [Terra Andoh Baffoe](http://www.linkedin.com/in/terraandoh)  
 📺 **YouTube:** [ToThePointCode](http://www.youtube.com/@ToThePointCode)
 
